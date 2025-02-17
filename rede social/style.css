@@ -1,0 +1,25 @@
+
+
+ body {
+background-color: indigo;
+
+ }
+ .logo{
+ margin: 0 auto;
+ display: block;
+}
+ 
+.tit {
+    padding: auto;
+text-align: center;
+font-size: 40px;
+
+}
+  
+footer{
+text-align: end;
+position: absolute;
+bottom: 0;
+color: rgb(255, 247, 247);
+font-family: "Shadows Into Light", serif;
+}

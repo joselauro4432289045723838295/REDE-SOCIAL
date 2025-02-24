@@ -1,25 +1,39 @@
 
+body {
+    background-color: rgb(115, 11, 165);
+    
+     }
+    header{
+        display: flex;
+       height: 100px;
+       
+       align-items: flex-start;
+       
+    }
 
- body {
-background-color: indigo;
-
+   .logo {
+      height: 100px;
+      cursor: pointer;
  }
- .logo{
- margin: 0 auto;
- display: block;
-}
- 
-.tit {
-    padding: auto;
-text-align: center;
-font-size: 40px;
-
-}
   
-footer{
-text-align: end;
-position: absolute;
-bottom: 0;
-color: rgb(255, 247, 247);
-font-family: "Shadows Into Light", serif;
-}
+ 
+ 
+ .perfil{
+    position: absolute;
+    top: 3%;
+     left: 94%;
+     width: 40px;
+     cursor: pointer;
+    } 
+ 
+
+  
+   
+      
+    footer{
+    text-align: end;
+    position: absolute;
+    bottom: 0;
+    color: rgb(255, 247, 247);
+    font-family: "Shadows Into Light", serif;
+    }

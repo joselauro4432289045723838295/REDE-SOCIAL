@@ -1,0 +1,39 @@
+
+body {
+    background-color: rgb(115, 11, 165);
+    
+     }
+    header{
+        display: flex;
+       height: 100px;
+       
+       align-items: flex-start;
+       
+    }
+
+   .logo {
+      height: 100px;
+      cursor: pointer;
+ }
+  
+ 
+ 
+ .perfil{
+    position: absolute;
+    top: 3%;
+     left: 94%;
+     width: 40px;
+     cursor: pointer;
+    } 
+ 
+
+  
+   
+      
+    footer{
+    text-align: end;
+    position: absolute;
+    bottom: 0;
+    color: rgb(255, 247, 247);
+    font-family: "Shadows Into Light", serif;
+    }

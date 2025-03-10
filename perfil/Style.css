@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(115, 11, 165);
+    
+     }
+    header{
+        display: flex;
+       height: 100px;
+       
+       align-items: flex-start;
+       
+    }
+    footer{
+        text-align: end;
+        position: absolute;
+        bottom: 0;
+        color: rgb(255, 247, 247);
+        font-family: "Shadows Into Light", serif;
+        }
+
+   .logo {
+    height: 600px;
+    cursor: pointer;
+}
+ 
+div {
+background-color: black;
+position: absolute;
+top: 30%;
+left: 70%;
+
+padding: 50px;
+}
